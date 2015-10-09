@@ -1,0 +1,320 @@
+.css
+
+html {
+    background-color: gray;
+    background-size: cover;
+}
+
+body {
+    color: gray;
+}
+
+.blue-dot {
+    width: 50px;
+    height: 50px;
+    background: cyan;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 350px;
+    left: 350px;
+}
+
+.blue-dot:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.red-dot {
+    width: 100px;
+    height: 100px;
+    background: magenta;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms; 
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 550px;
+    left: 200px;
+    
+}
+
+.red-dot:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.yellow-dot {
+    width: 150px;
+    height: 150px;
+    background: yellow;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 450px;
+    left: 650px;
+}
+
+.yellow-dot:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.black-dot {
+    width: 200px;
+    height:200px;
+    background: black;
+    position:absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    
+}
+
+.black-dot:hover {
+    width: 300px;
+    height:300px;
+}
+
+.magenta-dot {
+    width: 250px;
+    height:250px;
+    background:magenta;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 100px;
+    left: 500px;
+    
+}
+
+.magenta-dot:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.cyan-dot {
+    width: 50px;
+    height:50px;
+    background:cyan;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 100px;
+    left: 50px;
+}
+
+.cyan-dot:hover {
+    width: 300px;
+    height:300px;
+}
+
+.yellow-dot-two {
+    width: 40px;
+    height:40px;
+    background:yellow;
+    position:absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+}
+
+.yellow-dot-two:hover {
+    width: 300px;
+    height:300px;
+}
+
+.magenta-dot-two {
+    width: 20px;
+    height:20px;
+    background:magenta;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 100px;
+    left:250px;
+}
+
+.magenta-dot-two:hover {
+    width:300px;
+    height:300px;
+}
+
+.cyan-dot-two {
+    width: 150px;
+    height:150px;
+    background:cyan;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top:200px;
+    left:600px;
+}
+
+.cyan-dot-two:hover {
+    width:300px;
+    height:300px;
+}
+
+.blue-dot2 {
+    width: 100px;
+    height: 100px;
+    background: cyan;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 650px;
+    left: 1000px;
+}
+
+.blue-dot2:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.red-dot2 {
+    width: 200px;
+    height: 200px;
+    background: magenta;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms; 
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 450px;
+    left: 1000px;
+    
+}
+
+.red-dot2:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.yellow-dot2 {
+    width: 250px;
+    height: 250px;
+    background: yellow;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 150px;
+    left: 950px;
+}
+
+.yellow-dot2:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.black-dot2 {
+    width: 50px;
+    height:50px;
+    background: black;
+    position:absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top:250px;
+    left:850px;
+    
+}
+
+.black-dot2:hover {
+    width: 300px;
+    height:300px;
+}
+
+.magenta-dot2 {
+    width: 30px;
+    height:30px;
+    background:magenta;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 100px;
+    left: 980px;
+    
+}
+
+.magenta-dot2:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.cyan-dot2 {
+    width: 150px;
+    height:150px;
+    background:cyan;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 500px;
+    left: 50px;
+}
+
+.cyan-dot2:hover {
+    width: 300px;
+    height:300px;
+}
+
+.yellow-dot-two2 {
+    width: 80px;
+    height:80px;
+    background:yellow;
+    position:absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 300px;
+    left: 40px;
+}
+
+.yellow-dot-two2:hover {
+    width: 300px;
+    height:300px;
+}
+
+.magenta-dot-two2 {
+    width: 120px;
+    height:120px;
+    background:magenta;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top: 400px;
+    left:550px;
+}
+
+.magenta-dot-two2:hover {
+    width:300px;
+    height:300px;
+}
+
+.cyan-dot-two2 {
+    width: 50px;
+    height:50px;
+    background:cyan;
+    position: absolute;
+    -webkit-transition: width 2ms, height 4ms;
+    transition: width 2s, height 4s;
+    border-radius: 150px;
+    top:300px;
+    left:900px;
+}
+
+.cyan-dot-two2:hover {
+    width:300px;
+    height:300px;
+}
+
+

@@ -1,0 +1,107 @@
+html { 
+  background: url(Facade_1.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+body { 
+  color: white; 
+}
+
+h1 {
+  color: Magenta;
+  Font-family: OCR A STD;
+  Font-size: 80px;
+}
+
+h2 {
+  color: magenta;
+  Font-Family: OCR A STD;
+  Font-size: 50px;
+}
+
+div {
+  width: 250px;
+  padding: 10px;
+  border: 5px solid magenta;
+  Font-family: OCR A STD;
+  color: Magenta;
+  Font-size: 35px;
+  background-color: yellow;
+  
+}
+
+/* unvisited link */
+a:link {
+    color: #FF00FF;
+}
+
+/* visited link */
+a:visited {
+    color: #FF00FF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #2EFEF7;
+}
+
+/* selected link */
+a:active {
+    color: #2EFEF7;
+}
+
+h3 {
+  color: yellow;
+  Font-Family: OCR A STD;
+  Font-size: 30px;
+  background-color: Magenta;
+  
+}
+
+div3 {
+  width: 100px;
+ height: 100px;
+ margin: 20px;
+ padding: 20px;
+ float: left;
+ background-color: Magenta;
+ Font-Family: OCR A STD;
+ Font-size: 20px;
+ color: yellow;
+}
+
+div4 {
+  width: 100px;
+ height: 100px;
+ margin: 20px;
+ padding: 20px;
+ float: left;
+ background-color: Magenta;
+ Font-Family: OCR A STD;
+ Font-size: 20px;
+ color: yellow;
+}
+
+div5 {
+    width: 100px;
+    height:100px;
+    margin:20px;
+    padding:20px;
+    float: left;
+    background-color: Magenta;
+    Font-Family: OCR A STD;
+    Font-size: 20px;
+    color: yellow;
+}
+
+div6 {
+    width: 100px;
+    height:100px;
+    margin:20px;
+    padding:20px;
+    float: left;
+    background-color: Magenta;
+    Font-Family: OCR A STD;
+    Font-size: 20px;
+    color: yellow;
+}

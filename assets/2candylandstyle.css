@@ -1,0 +1,28 @@
+.css
+
+html {
+    background: green;
+}
+
+body {
+    background: green;
+    background-size: cover;
+}
+
+.yellow-square {
+    width:100px; 
+    height:100px;
+    background-color: yellow; 
+    padding:20px; 
+    margin:20px; 
+    border-radius: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 0px 10px 10px yellow;
+}
+    
