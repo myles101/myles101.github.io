@@ -1,0 +1,23 @@
+.css
+
+html {
+    background: #191970;
+}
+
+body {
+    background-color: #191970;
+}
+
+.screen {
+    width:4000px;
+    height:750px;
+    margin: 45px;
+   border-radius: 25px;
+  background-color: #ffffff;
+  opacity:0.1;
+  position: absolute;
+  top:-25px;
+  filter:alpha(opacity=60); 
+}
+
+

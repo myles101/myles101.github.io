@@ -1,0 +1,41 @@
+.css
+
+html {
+    background: navy;
+    
+}
+
+body {
+    background: navy;
+    background-size: cover;
+}
+
+
+.transparent-box {
+   width: 1180px;
+   height:400px;
+   margin: 30px;
+   border-radius: 25px;
+  background-color: #ffffff;
+  opacity:0.3;
+  position: absolute;
+  top: 17%;
+  filter:alpha(opacity=60); 
+}
+
+.carloshernandez {
+    width: 100px;
+    height: 100px;
+    background-image: url(CarlosHernandez.jpg);
+    -webkit-transition: width 2s;
+    transition: width 2s;
+    
+    
+}
+
+.carloshernandez:hover {
+    width: 300px;
+}
+    
+
+

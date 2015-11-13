@@ -1,0 +1,836 @@
+.css
+
+html {
+    background: #191970;
+}
+
+body {
+    background-color: #191970;
+}
+
+.A {
+    width:10px ;
+    height:90px;
+    background:white;
+    position: absolute;
+    top:90px;
+    left:100px ;
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg);
+}
+
+.A1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:90px;
+    left:100px;
+    -ms-transform: rotate(-45deg); 
+    -webkit-transform: rotate(-45deg); 
+    transform: rotate(-45deg);
+}
+
+.A2 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:60px;
+    left:100px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+.B {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:95px;
+    left:280px;
+}
+
+
+.B2 {
+  width: 40px;
+  height: 40px;
+  position:absolute;
+  top:95px;
+  left:230px;
+  border-radius: 180%;
+  box-shadow: 10px 1px 0  white;
+  -ms-transform: rotate(4deg); 
+    -webkit-transform: rotate(4deg); 
+    transform: rotate(4deg);
+  
+}
+
+.B3 {
+  width: 40px;
+  height: 40px;
+  position:absolute;
+  top:130px;
+  left:230px;
+  border-radius: 180%;
+  box-shadow: 10px 1px 0  white;
+  -ms-transform: rotate(4deg); 
+    -webkit-transform: rotate(4deg); 
+    transform: rotate(4deg);
+    
+}
+
+.C {
+  width: 80px;
+  height: 80px;
+  position:absolute;
+  top:95px;
+  left:430px;
+  border-radius: 180%;
+  box-shadow: -10px -1px 0  white;
+  -ms-transform: rotate(-4deg); 
+    -webkit-transform: rotate(-4deg); 
+    transform: rotate(-4deg);
+    
+}
+
+
+.D {
+    width: 80px;
+    height:80px;
+    position:absolute;
+    top:95px;
+    left:560px;
+    border-radius:180%;
+    box-shadow: 10px 1px 0 white;
+    -ms-transform: rotate(-4deg); 
+    -webkit-transform: rotate(-4deg); 
+    transform: rotate(-4deg);
+    
+}
+
+.D1 {
+    width:10px ;
+    height:80px;
+    background:white;
+    position: absolute;
+    top:95px;
+    left:645px ;
+    
+}
+
+.E {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:95px;
+    left:785px;
+}
+
+.E1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:55px;
+    left:785px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+    
+}
+
+.E2 {
+    width:10px;
+    height:50px;
+    background:white;
+    position:absolute;
+    top:110px;
+    left:785px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+    
+}
+
+.E3 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:125px;
+    left:785px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+.F {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:55px;
+    left:970px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+    
+}
+
+.F1 {
+    width:10px;
+    height:60px;
+    background:white;
+    position:absolute;
+    top:105px;
+    left:970px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+    
+}
+
+.F2 {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:95px;
+    left:970px;
+    
+}
+
+.G {
+ font-size: 9em;
+ display: inline-block;
+ width: 0.4em;
+ height: 0.4em;
+ border: 0.1em solid white;
+ position: absolute;
+ top:254px;
+ left:70px;
+ border-radius: 0.35em;
+  
+    
+}
+
+.G1 {
+    width:11px;
+    height:130px;
+    background:white;
+    position:absolute;
+    top:230px;
+    left:105px;
+    -ms-transform: rotate(-55deg); 
+    -webkit-transform: rotate(-55deg); 
+    transform: rotate(-55deg);
+}
+
+.H {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:255px;
+    left:245px;
+    
+}
+
+.H1 {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:255px;
+    left:300px;
+}
+
+.H2 {
+    width:10px;
+    height:105px;
+    background:white;
+    position:absolute;
+    top:230px;
+    left:272px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+.I {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:255px;
+    left:440px;
+}
+
+
+.I1 {
+    width:10px;
+    height:50px;
+    background:white;
+    position:absolute;
+    top:255px;
+    left:440px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+.I2 {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:290px;
+    left:440px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+.J {
+    font-size: 9em;
+ display: inline-block;
+ width: 0.4em;
+ height: 0.4em;
+ border: 0.1em solid white;
+ position: absolute;
+ top:253px;
+ left:600px;
+ border-radius: 0.35em;
+}
+
+.J1 {
+    width:11px;
+    height:130px;
+    background:white;
+    position:absolute;
+    top:230px;
+    left:638px;
+    -ms-transform: rotate(55deg); 
+    -webkit-transform: rotate(55deg); 
+    transform: rotate(55deg);
+    
+}
+
+.K {
+    width:10px ;
+    height:90px;
+    background:white;
+    position: absolute;
+    top:260px;
+    left:800px ;
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg);
+}
+
+.K1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:260px;
+    left:800px;
+    -ms-transform: rotate(-45deg); 
+    -webkit-transform: rotate(-45deg); 
+    transform: rotate(-45deg);
+}
+
+.K2 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:258px;
+    left:800px;
+}
+
+.L {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:258px;
+    left:955px;
+}
+
+.L1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:275px;
+    left:994px;
+    -ms-transform: rotate(57deg); 
+    -webkit-transform: rotate(57deg); 
+    transform: rotate(57deg);
+    
+}
+
+.M {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:420px;
+    left:76px;
+}
+
+.M1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:420px;
+    left:165px;
+}
+
+.M2 {
+    width:10px ;
+    height:70px;
+    background:white;
+    position: absolute;
+    top:420px;
+    left:141px ;
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg);
+}
+
+.M3 {
+    width:10px;
+    height:70px;
+    background:white;
+    position: absolute;
+    top:420px;
+    left:99px;
+    -ms-transform: rotate(-45deg); 
+    -webkit-transform: rotate(-45deg); 
+    transform: rotate(-45deg);
+}
+
+.N {
+    width:10px;
+    height:50px;
+    background:white;
+    position:absolute;
+    top:460px;
+    left:245px;
+}
+
+.N1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:439.5px;
+    left:285px;
+    -ms-transform: rotate(-63deg); 
+    -webkit-transform: rotate(-63deg); 
+    transform: rotate(-63deg);
+}
+
+.N2 {
+    width:10px;
+    height:90px;
+    background:white;
+    position: absolute;
+    top: 420.1px;
+    left:323px;
+}
+
+.N3 {
+    width:10px;
+    height:100px;
+    background:white;
+    position:absolute;
+    top: 415px;
+    left:293px;
+    -ms-transform: rotate(-38deg); 
+    -webkit-transform: rotate(-38deg); 
+    transform: rotate(-38deg);
+}
+
+.O {
+ font-size: 10em;
+ display: inline-block;
+ width: 0.4em;
+ height: 0.4em;
+ border: 0.1em solid white;
+ position: absolute;
+ top:420px;
+ left:402px;
+ border-radius: 0.35em;
+}
+
+.O1 {
+    width:10px;
+    height:85px;
+    background:white;
+    position:absolute;
+    top:430px;
+    left:445px;
+}
+
+.P {
+    width:10px;
+    height:105px;
+    background:white;
+    position:absolute;
+    top:415px;
+    left:665px;
+}
+
+.P1 {
+    font-size:6em;
+    display: inline-block;
+    width:0.4em;
+    height: 0.4em;
+    border: 0.1em solid white;
+    position: absolute;
+    top:416px;
+    left:616px;
+    border-radius: 0.35em;
+}
+
+.Q {
+    font-size:10em;
+    display: inline-block;
+    width:0.4em;
+    height:0.4em;
+    border:0.1em solid white;
+    position:absolute;
+    top:425px;
+    left:765px;
+    border-radius: 0.35em;
+    
+}
+
+.Q1 {
+    width:11px;
+    height:130px;
+    background:white;
+    position:absolute;
+    top:410px;
+    left:810px;
+    -ms-transform: rotate(-55deg); 
+    -webkit-transform: rotate(-55deg); 
+    transform: rotate(-55deg);
+}
+
+.Q2 {
+    width:11px;
+    height:35px;
+    background:white;
+    position: absolute;
+    top: 494px;
+    left:878px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+.R {
+    width:10px;
+    height:105px;
+    background:white;
+    position:absolute;
+    top:415px;
+    left:960px;
+}
+
+.R1 {
+    font-size:6em;
+    display: inline-block;
+    width:0.4em;
+    height: 0.4em;
+    border: 0.1em solid white;
+    position: absolute;
+    top:419px;
+    left:961px;
+    border-radius: 0.35em;
+}
+
+.R2 {
+    width:11px;
+    height:130px;
+    background:white;
+    position:absolute;
+    top:405px;
+    left:965px;
+    -ms-transform: rotate(-55deg); 
+    -webkit-transform: rotate(-55deg); 
+    transform: rotate(-45deg);
+}
+
+.S {
+    width:11px;
+    height:150px;
+    background:white;
+    position:absolute;
+    top:575px;
+    left:134px;
+    -ms-transform: rotate(50deg); 
+    -webkit-transform: rotate(50deg); 
+    transform: rotate(50deg);
+}
+
+.S1 {
+    font-size:6em;
+    display: inline-block;
+    width:0.4em;
+    height: 0.4em;
+    border: 0.1em solid white;
+    position: absolute;
+    top:604px;
+    left:134px;
+    border-radius: 0.35em;
+}
+
+.S2 {
+    font-size:6em;
+    display: inline-block;
+    width:0.4em;
+    height: 0.4em;
+    border: 0.1em solid white;
+    position: absolute;
+    top:635px;
+    left:100px;
+    border-radius: 0.35em;
+}
+
+.T {
+    width:10px;
+    height:105px;
+    background:white;
+    position:absolute;
+    top:555px;
+    left:300px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+.T1 {
+    width:11px;
+    height:125px;
+    background:white;
+    position:absolute;
+    top:582px;
+    left:296.1px;
+    -ms-transform: rotate(55deg); 
+    -webkit-transform: rotate(55deg); 
+    transform: rotate(55deg);
+}
+
+.T2 {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:605px;
+    left:295px;
+}
+
+.U {
+    width: 100px;
+  height: 100px;
+  position:absolute;
+  top:640px;
+  left:408px;
+  border-radius: 180%;
+  box-shadow: -10px -1px 0  white;
+  -ms-transform: rotate(85deg); 
+    -webkit-transform: rotate(85deg); 
+    transform: rotate(85deg);
+}
+
+.V {
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid white;
+	position:absolute;
+	top:600px;
+	left:610px;
+}
+
+.V1 {
+    width: 0;
+	height: 0;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-top: 80px solid #191970;
+	position:absolute;
+	top:606px;
+	left:620px;
+    
+}
+
+.W {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:600px;
+    left:781px;
+}
+
+.W1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:600px;
+    left:875px;
+}
+
+.W2 {
+    width:10px ;
+    height:70px;
+    background:white;
+    position: absolute;
+    top:600px;
+    left:807px ;
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg);
+}
+
+.W3 {
+    width:10px ;
+    height:70px;
+    background:white;
+    position: absolute;
+    top:600px;
+    left:850px ;
+    -ms-transform: rotate(-45deg); 
+    -webkit-transform: rotate(-45deg); 
+    transform: rotate(-45deg);
+}
+
+.X {
+    width: 100px;
+  height: 100px;
+  position:absolute;
+  top:650px;
+  left:940px;
+  border-radius: 180%;
+  box-shadow: -10px -1px 0  white;
+  -ms-transform: rotate(85deg); 
+    -webkit-transform: rotate(85deg); 
+    transform: rotate(85deg);
+}
+
+.X1 {
+    width:10px ;
+    height:85px;
+    background:white;
+    position: absolute;
+    top:619px;
+    left:1000px ;
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg);
+}
+
+.Y {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:745px;
+    left:455px;
+}
+
+.Y1 {
+    width:10px ;
+    height:50px;
+    background:white;
+    position: absolute;
+    top:750px;
+    left:471px ;
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg); 
+    transform: rotate(45deg);
+}
+
+.Y2 {
+    width:10px ;
+    height:50px;
+    background:white;
+    position: absolute;
+    top:750px;
+    left:440px ;
+    -ms-transform: rotate(-45deg); 
+    -webkit-transform: rotate(-45deg); 
+    transform: rotate(-45deg);
+}
+
+.Z {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:750px;
+    left:620px;
+}
+
+.Z1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:750px;
+    left:700px;
+}
+
+.Z2 {
+    width:10px;
+    height:110px;
+    background:white;
+    position:absolute;
+    top:740px;
+    left:660px;
+     -ms-transform: rotate(-50deg); 
+    -webkit-transform: rotate(-50deg); 
+    transform: rotate(-50deg);
+}
+
+.Z3 {
+    width:10px ;
+    height:130px;
+    background:white;
+    position: absolute;
+    top:730px;
+    left:658px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
