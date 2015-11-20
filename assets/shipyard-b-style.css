@@ -124,6 +124,37 @@ body {
         
     }
     
+    .titlebox3 {
+    background-color: #000033;
+    border-radius: 10%;
+    opacity: 0.2;
+    filter: alpha(opacity=10);
+    float: left;
+    left: 3060px;
+    top: 55px;
+    width:80px;
+    height:60px;
+    padding: 20px;
+    position: absolute;
+    z-index:-10;
+    }
+    
+.C {
+  width: 80px;
+  height: 80px;
+  position:absolute;
+  top:65px;
+  left:3110px;
+  border-radius: 180%;
+  box-shadow: -10px -1px 0  white;
+  -ms-transform: rotate(-4deg); 
+    -webkit-transform: rotate(-4deg); 
+    transform: rotate(-4deg);
+    
+}
+    
+    
+    
 
 /* Vertical Lines */
 
