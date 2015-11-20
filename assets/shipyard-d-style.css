@@ -124,6 +124,68 @@ body {
         
     }
     
+    .titlebox3 {
+        background-color: #000033;
+    border-radius: 10%;
+    opacity: 0.2;
+    filter: alpha(opacity=10);
+    float: left;
+    left: 3060px;
+    top: 55px;
+    width:80px;
+    height:60px;
+    padding: 20px;
+    position: absolute;
+    z-index:-10;
+    }
+    
+    .E {
+    width:10px;
+    height:80px;
+    background:white;
+    position:absolute;
+    top:65px;
+    left:3110px;
+}
+
+.E1 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:25px;
+    left:3110px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+    
+}
+
+.E2 {
+    width:10px;
+    height:50px;
+    background:white;
+    position:absolute;
+    top:80px;
+    left:3110px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+    
+}
+
+.E3 {
+    width:10px;
+    height:90px;
+    background:white;
+    position:absolute;
+    top:100px;
+    left:3110px;
+    -ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+}
+    
 
 /* Vertical Lines */
 
