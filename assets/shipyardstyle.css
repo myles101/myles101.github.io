@@ -8,6 +8,80 @@ body {
     background-color: #191970;
 }
 
+.boxlayout {
+    width:1000px;
+    height:80px;
+    padding:10px;
+    border:2px solid white;
+    position:absolute;
+    top:80px;
+    left: 30px;
+    
+}
+
+.boxlayout3 {
+    width:1000px;
+    height:105px;
+    padding:10px;
+    border:2px solid white;
+    position:absolute;
+    top:405px;
+    left: 30px;
+    
+}
+
+.boxlayout5 {
+    width:350px;
+    height:80px;
+    padding:10px;
+    border:2px solid white;
+    position:absolute;
+    top:740px;
+    left: 385px;
+    
+}
+
+
+.title {
+    font-family: 'Raleway', sans-serif !important;
+    color:white;
+    float: left;
+    position: absolute;
+    left: 1055px;
+    width:200px;
+    height:200px;
+    top: -5px;
+    font-size: 52pt;
+    line-height: 90%;
+    font-weight: 100;
+    padding: 30px;
+    text-decoration: none;
+    z-index: 1;
+}
+
+.desbox {
+    width:300px;
+    height:600px;
+    padding:10px;
+    border:2px solid white;
+    position:absolute;
+    top:120px;
+    left: 1070px;
+}
+
+.description {
+	    color: #ffffff;
+        width: 220px;
+        height: 50px;
+        font-size: 16px;
+        position: absolute;
+        top:179px;
+        left:1135px;
+        font-family: 'Raleway', sans-serif !important;
+        text-align: center;
+        letter-spacing: .6px;
+}
+
 .A {
     width:10px ;
     height:90px;
