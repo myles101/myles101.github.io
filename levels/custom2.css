@@ -1,7 +1,7 @@
-/* custom.css for demo.html */
+
 
 body {
-  background: rgb(173,123,214);
+  background: rgb(255,171,229);
 }
 
 .wordbox {
@@ -20,11 +20,11 @@ button#submit {
   height:100%;
   border-radius: 3px;
   outline: none;
-  background-color: rgb(149, 84, 202);
+  background-color: rgb(74, 229, 246);
   font-weight: 400;
   font-size:2.5em;
-  color: rgb(137, 65, 196);
-  box-shadow: 0 5px rgb(124, 56, 179);
+  color: rgb(255, 171, 229);
+  box-shadow: 0 5px rgb(56, 166, 178);
   transition: all 0.25s ease;
 }
 
@@ -36,13 +36,38 @@ button#submit:hover {
   color: #fff;
 }
 
+button#reset {
+  text-transform:none;
+  padding: 0.25em 0.75em;
+  border: 0 none;
+  height:100%;
+  border-radius: 3px;
+  outline: none;
+  background-color: rgb(74, 229, 246);
+  font-weight: 400;
+  font-size:2.5em;
+  color: rgb(255, 171, 229);
+  box-shadow: 0 5px rgb(56, 166, 178);
+  transition: all 0.25s ease;
+}
+
+button#reset:active {
+ transform: translateY(5px);
+}
+
+button#reset:hover {
+  color: #fff;
+}
+
+
 .footer {
   padding-top:5em;
   text-align:center;
 }
 
-/* placeholder colors */
 #box1 { background-color:#666; }
 #box2 { background-color:#aaa; }
 #box3 { background-color: #ddd; }
 #box4 { background-color: #444; }
+
+
